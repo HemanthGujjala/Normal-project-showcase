@@ -11,4 +11,4 @@ The site is one of my first projects with react.
 - Vanilla Javascript
 - React
 
-> Made by Norberto Ignacio
+> Made by Hemanth Gujjala
